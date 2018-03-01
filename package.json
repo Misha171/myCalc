@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "gfg",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "ffg",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gfg"
+  },
+  "keywords": [
+    "fg"
+  ],
+  "author": "fgfg",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.16.2"
+  }
+}
